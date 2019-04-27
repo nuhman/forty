@@ -41,6 +41,22 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="https://github.com/nuhman/talk" class="image">
+			<img src="assets/images/talk_collage.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Talk</h3>
+				</header>
+				<p>A community blog application for android OS powered by firebase. Implemented firebase for authentication and storage. Work in progress :)</p>
+				<ul class="actions">
+					<li><a href="https://github.com/nuhman/talk" class="button">See more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://github.com/nuhman/react-youtube" class="image">
 			<img src="assets/images/rsz_react_youtube.jpg" alt="" data-position="top center" />
 		</a>
